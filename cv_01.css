@@ -4,20 +4,13 @@ html, body {
 	max-width: 100%;
 }
 
-h1 {
-	color: green;
-}
-
 .cadre {
-background-color: yellow;
-border-top: thick black;
-border-right: thick black;
-border-bottom: thick black;
-border-left: thick black;
+	background-color: yellow;
+	border-top: thick black;
+	border-right: thick black;
+	border-bottom: thick black;
+	border-left: thick black;
 }
-
-
-
 
 .tigre {
 	text-align: center;
@@ -42,27 +35,9 @@ h1 {
 
 h2 {
 	color: blue;
-	text-align: center;
+	margin: 25px;
 	width: 100%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
